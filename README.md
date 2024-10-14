@@ -9,4 +9,4 @@
 #### 镜像站URL: https://tonnychen168.top/
 #### Copyright © 2024 陈昕宇. All rights reserved.
 #### Powered by Github Pages
-#### This is a copy from "https://blog.tonnychen168.top/"
+#### This is a copy from 'https://tonnychen.top/'
