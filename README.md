@@ -5,8 +5,10 @@
 本备用站正式启用，备用站转跳按钮启用
 #### 2024.10.13 V2.3-2.4
 个人信息更新，部分功能替换/个人技能模块更新，图标优化
+#### 2025.02.08 V2.3-2.4
+个人信息更新，移除部分未启用文件
 #### 主站URL: https://tonnychen.top/
 #### 镜像站URL: https://tonnychen168.top/
-#### Copyright © 2024 陈昕宇. All rights reserved.
+#### Copyright © 2024-2025 陈昕宇. All rights reserved.
 #### Powered by Github Pages
 #### This is a copy from 'https://tonnychen.top/'
