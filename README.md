@@ -10,7 +10,7 @@
 #### 2025.04.22 v2.5
 域名‘tonnychen168.top’过期，镜像站URL变更为‘tonnychen668.github.io’
 #### 主站URL: https://tonnychen.top/
-#### 镜像站URL: tonnychen668.github.io
+#### 镜像站URL: https://tonnychen668.github.io/
 #### Copyright © 2024-2025 陈昕宇. All rights reserved.
 #### Powered by Github Pages
 #### This is a copy from 'https://tonnychen.top/'
